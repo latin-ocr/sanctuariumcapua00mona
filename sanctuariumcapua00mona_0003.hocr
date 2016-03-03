@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctuariumcapua00mona_0003.png"; bbox 0 0 1966 2880; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 280 1319 1691 1561">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 280 1319 1691 1561">
+     <span class='ocr_line' id='line_1_1' title="bbox 510 1319 1460 1384; baseline 0.002 -15"><span class='ocrx_word' id='word_1_1' title='bbox 510 1319 761 1384; x_wconf 65' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 788 1319 853 1384; x_wconf 82' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 875 1319 966 1371; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 995 1319 1216 1371; x_wconf 71' lang='lat' dir='ltr'>{memet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1238 1319 1460 1371; x_wconf 67' lang='lat' dir='ltr'><strong>Archiv&amp;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 610 1408 1357 1473; baseline 0 -15"><span class='ocrx_word' id='word_1_6' title='bbox 610 1408 654 1458; x_wconf 80' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 681 1410 819 1460; x_wconf 73' lang='lat'>2010</span> <span class='ocrx_word' id='word_1_8' title='bbox 843 1408 958 1460; x_wconf 75' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 983 1408 1202 1473; x_wconf 72' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1226 1408 1357 1460; x_wconf 76' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 280 1496 1691 1561; baseline 0.001 -15"><span class='ocrx_word' id='word_1_11' title='bbox 280 1496 560 1548; x_wconf 69' lang='lat' dir='ltr'>Hesearch</span> <span class='ocrx_word' id='word_1_12' title='bbox 589 1496 803 1561; x_wconf 63' lang='lat' dir='ltr'>Libram,</span> <span class='ocrx_word' id='word_1_13' title='bbox 829 1496 943 1548; x_wconf 76' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_14' title='bbox 968 1496 1125 1561; x_wconf 80' lang='lat' dir='ltr'>Getty</span> <span class='ocrx_word' id='word_1_15' title='bbox 1152 1496 1432 1548; x_wconf 70' lang='lat' dir='ltr'>Hesearch</span> <span class='ocrx_word' id='word_1_16' title='bbox 1463 1496 1691 1548; x_wconf 69' lang='lat' dir='ltr'><strong>institute</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 64 2657 1838 2733">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 64 2657 1838 2733">
+     <span class='ocr_line' id='line_1_4' title="bbox 64 2657 1838 2733; baseline 0.001 -15"><span class='ocrx_word' id='word_1_17' title='bbox 64 2657 76 2661; x_wconf 62' lang='grc'><em>”</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 134 2668 1838 2733; x_wconf 66' lang='grc' dir='ltr'>ὴῒῒρῑΝνννννν.ειΓοὴἰνθοτᾳίόθῒᾶίΙείεειηοῒυεπίυΓηοερυᾶΟΟΓηοηει</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
